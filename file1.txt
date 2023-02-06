@@ -3,3 +3,5 @@ this is devops batch 16 file
 ceh class start 8 feb
 line 4 add 2 feb 2023
 vcp dcv class start 8 feb 2023
+ceh class start 8 feb line 6
+line 4 add 2 feb 2023  line 7
